@@ -1,0 +1,15 @@
+h1. Push To FoxyCart Extension
+
+Extends ExpressionEngine and the Solspace User Module to push user registrations and edits to Foxycart for SSO
+
+h2. Info
+
+Developed by Ed Kelly @ Nine Four, http://ninefour.co.uk/labs
+
+h2. Installation
+
+# Put ext.push_to_foxycart.php in your */system/extensions* folder
+
+h2. Changelog
+
+* 1.0 - Initial Release
